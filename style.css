@@ -5,7 +5,6 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-display: swap;
 }
 
 a,
@@ -1049,8 +1048,4 @@ h4 {
 .row-center {
     width: 50%;
     margin: 0 auto;
-}
-
-.social-icon-color {
-    filter: invert();
 }
